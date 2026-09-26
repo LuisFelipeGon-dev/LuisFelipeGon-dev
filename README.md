@@ -20,4 +20,4 @@ Cálculo III, Circuitos Eletrônicos, Sistemas Digitais e Programação Orientad
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/luis-felipe-gon%C3%A7alves-da-silva-75532a22b/)
+[LinkedIn](https://www.linkedin.com/in/luisfelipegoncalvesdasilva/)
