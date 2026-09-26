@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Luis Felipe
 
-<!--
-**LuisFelipeGon-dev/LuisFelipeGon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Computação na UFMT, em Várzea Grande (MT), desde 2025.
 
-Here are some ideas to get you started:
+## O que estou construindo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sistema de ocupação das salas do BRACIS 2026: um site em tempo real que mostra a programação e a lotação de cada sala da conferência, com um app para os voluntários registrarem quem entra e quem sai.
+
+## Linguagens que estou estudando
+
+C, Java, JavaScript e Python.
+
+## Ferramentas que uso
+
+FastAPI, SQLite, HTML, CSS, Git e Linux.
+
+## Na faculdade agora
+
+Cálculo III, Circuitos Eletrônicos, Sistemas Digitais e Programação Orientada a Objetos.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/luis-felipe-gon%C3%A7alves-da-silva-75532a22b/)
